@@ -1,0 +1,28 @@
+{
+  "name": "event-horizon",
+  "displayName": "Event Horizon",
+  "description": "Improved high contrast color and icon theme optimized for dark mode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Event Horizon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/event-horizon-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "eevnt-horizon-icon-theme",
+        "label": "Event Horizon",
+        "path": "./icons/event-horizon-icon-theme.json"
+      }
+    ]
+  }
+}
