@@ -19,7 +19,7 @@
     ],
     "iconThemes": [
       {
-        "id": "eevnt-horizon-icon-theme",
+        "id": "event-horizon",
         "label": "Event Horizon",
         "path": "./icons/event-horizon-icon-theme.json"
       }
