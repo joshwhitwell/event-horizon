@@ -2,6 +2,7 @@
   "name": "event-horizon",
   "displayName": "Event Horizon",
   "description": "Improved high contrast color and icon theme optimized for dark mode",
+  "icon": "images/black-hole.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.69.0"
