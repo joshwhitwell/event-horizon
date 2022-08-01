@@ -1,13 +1,15 @@
 {
   "name": "event-horizon",
   "displayName": "Event Horizon",
-  "description": "Improved high contrast color and icon theme optimized for dark mode",
+  "description": "High contrast color and icon theme optimized for dark mode",
   "icon": "images/black-hole.png",
+  "publisher": "joshwhitwell",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.69.0"
   },
   "categories": [
+    "Other",
     "Themes"
   ],
   "contributes": {
@@ -25,5 +27,19 @@
         "path": "./icons/event-horizon-icon-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "icons",
+    "theme",
+    "icon-theme",
+    "customization"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshwhitwell/event-horizon"
+  },
+  "author": {
+    "name": "Josh Whitwell"
+  },
+  "license": "MIT"
 }
