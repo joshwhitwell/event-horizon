@@ -416,10 +416,7 @@
       "iconPath": "./icons/url.svg"
     },
     "_f_visualstudio": {
-      "iconPath": "./icons/visualstudio.svg"
-    },
-    "_f_visualstudiocode": {
-      "iconPath": "./icons/visualstudiocode.svg"
+      "iconPath": "./icons/vscode.svg"
     },
     "_f_vue": {
       "iconPath": "./icons/vue.svg"
@@ -1130,7 +1127,7 @@
     "rp": "_f_axure",
     "d": "_f_d",
     "di": "_f_d",
-    "msbuild": "_f_visualstudiocode",
+    "msbuild": "_f_visualstudio",
     "props": "_f_settings",
     "targets": "_f_settings",
     "proj": "_f_visualstudio",
@@ -1185,7 +1182,6 @@
     "j2": "_f_jinja",
     "jinja": "_f_jinja",
     "jinja2": "_f_jinja",
-    "vscodeignore": "_f_visualstudiocode",
     "editorconfig": "_f_settings",
     "sequelizerc": "_f_sequelize",
     "npmrc": "_f_npm",
@@ -1217,9 +1213,11 @@
     "asax": "_f_asp",
     "ascx": "_f_asp",
     "vim": "_f_vim",
-    "proto": "_f_proto"
+    "proto": "_f_proto",
+    "vscodeignore": "_f_visualstudio"
   },
   "fileNames": {
+    ".vscodeignore": "_f_visualstudio",
     "androidmanifest.xml": "_f_android",
     "artisan": "_f_laravel",
     "bower.json": "_f_bower",
@@ -1276,12 +1274,12 @@
     "paket.local": "_f_paket",
     "gemfile": "_f_ruby",
     "gemfile.lock": "_f_lock",
-    "vscodeignore.json": "_f_visualstudiocode",
-    "extensions.json": "_f_visualstudiocode",
-    "launch.json": "_f_visualstudiocode",
-    "settings.json": "_f_visualstudiocode",
+    "vscodeignore.json": "_f_visualstudio",
+    "extensions.json": "_f_visualstudio",
+    "launch.json": "_f_visualstudio",
+    "settings.json": "_f_visualstudio",
     "storage": "_f_databse",
-    "tasks.json": "_f_visualstudiocode",
+    "tasks.json": "_f_visualstudio",
     "jsconfig.json": "_f_json",
     "tsconfig.json": "_f_json",
     "vite.config.js": "_f_vitejs",
@@ -1374,7 +1372,6 @@
     "webpackfile.cjs": "_f_webpack",
     "yarn.lock": "_f_lock",
     "yarn-error.log": "_f_yarn",
-    ".vscodeignore": "_f_visualstudiocode",
     ".editorconfig": "_f_settings",
     ".sequelizerc": "_f_sequelize",
     ".babelrc": "_f_babel",
