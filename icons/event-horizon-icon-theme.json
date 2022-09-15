@@ -1,6 +1,9 @@
 {
   "hidesExplorerArrows": true,
   "iconDefinitions": {
+    "_f_model": {
+      "iconPath": "./icons/3d.svg"
+    },
     "_file": {
       "iconPath": "./icons/file.svg"
     },
@@ -737,6 +740,8 @@
     "benches": "_fd_bench_open"
   },
   "fileExtensions": {
+    "Models/php": "_f_model",
+    "migrations/php": "_f_database",
     "ai": "_f_illustrator",
     "as": "_f_actionscript",
     "au3": "_f_autoit",
